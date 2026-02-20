@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
 - **Category 3:** Purchasing Behavior & Discounts
 - **Category 4:** Subscription Velocity & Loyalty
 
-The python code used to inspect and clean the data for this analysis can be found here [link].
+The python code used to inspect and clean the data for this analysis can be found here [[link](https://github.com/kdy0820/shopping_behavior/blob/44b7ec22477ef807bd67a0dde09a206a7e9f6182/shopping_behavior.ipynb)].
 
 Targed SQL queries regarding various business questions can be found here [link].
 
