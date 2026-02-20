@@ -12,9 +12,9 @@ Insights and recommendations are provided on the following key areas:
 
 The python code used to inspect and clean the data for this analysis can be found here [[link](https://github.com/kdy0820/shopping_behavior/blob/44b7ec22477ef807bd67a0dde09a206a7e9f6182/shopping_behavior.ipynb)].
 
-Targed SQL queries regarding various business questions can be found here [link].
+Targed SQL queries regarding various business questions can be found here [[link](https://github.com/kdy0820/shopping_behavior/blob/44b7ec22477ef807bd67a0dde09a206a7e9f6182/shopping_behavior.sql)].
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+An interactive Tableau dashboard used to report and explore trends can be found here [[link](https://public.tableau.com/app/profile/keith.herrick.dy/viz/CustomerShoppingBehaviorAnalysis_17713824538000/Dashboard1?publish=yes)].
 
 
 # Data Structure & Initial Checks
