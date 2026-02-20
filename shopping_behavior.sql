@@ -101,3 +101,30 @@ select
 from customer_info
 group by age_group
 order by total_revenue desc;
+
+--11. How do average annual purchases differ between age-groups?--
+select
+	age_group,
+	subscription_status,
+	round(avg(365.0/purchase_frequency_days),2) as avg_annual_purchases
+from customer_info
+group by age_group, subscription_status 
+order by age_group;
+
+--12. How much revenue do subscribers/non-subscribers generate per day?--
+select 
+	subscription_status,
+	round(avg(purchase_amount/purchase_frequency_days),3) as revenue_per_day
+from customer_info
+group by subscription_status;
+
+--13. How does seasonal revenue differ between each product category?--
+select
+  season,
+  category,
+  round(sum(purchase_amount), 2) as total_revenue,
+  round(avg(purchase_amount), 2) as avg_order_value,
+  count(*) as orders
+from customer_info
+group by season, category
+order by season, total_revenue DESC;
