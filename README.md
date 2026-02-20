@@ -31,6 +31,8 @@ The company's data for this analysis consists of a master dataset with a total r
 
 Male customers and Young Adults are the primary absolute revenue drivers for the business. However, when evaluating the velocity of spend, our subscription model is quietly proving its worth, driving higher daily revenue generation and successfully increasing annual purchase frequencies for our Middle-aged and Senior demographics. Furthermore, a deeper look into seasonality reveals counter-intuitive product peaks (e.g., Outerwear peaking in the Fall rather than Winter), highlighting major opportunities to re-align our promotional calendars.
 
+See image below for the Tableau dashboard:
+<img width="1000" height="1000" alt="shopping_behavior_dashboard" src="https://github.com/user-attachments/assets/0ffb5696-4da9-40b2-b241-f923c94afdbd" />
 
 # Insights Deep Dive
 ### Category 1: Demographics & Segmentation
