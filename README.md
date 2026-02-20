@@ -1,5 +1,5 @@
 # Project Background
-As a leading retail company in the B2C apparel space, the Meridian Retail Group relies on high transaction volumes across diverse product categories, including Clothing, Accessories, Footwear, and Outerwear. The management team has noticed recent changes in purchasing patterns across demographics and sales channels, prompting a need to better understand customer shopping behavior.
+As a leading retail company in the B2C apparel space, **Meridian Retail Group** relies on high transaction volumes across diverse product categories, including Clothing, Accessories, Footwear, and Outerwear. The management team has noticed recent changes in purchasing patterns across demographics and sales channels, prompting a need to better understand customer shopping behavior.
 
 Acting as a data analyst, my objective is to leverage this complete consumer dataset to uncover the key factors driving consumer decisions, repeat purchases, and long-term loyalty. By cleaning the data in Python, querying transactions in PostgreSQL, and building interactive visualizations in Tableau, this project provides stakeholders with actionable strategies to optimize marketing campaigns, inventory planning, and subscription positioning.
 
@@ -88,7 +88,7 @@ Based on the insights and findings above, we recommend the marketing and product
 
 * **High Discount Rates on Specific Items**: Hats and Sneakers are heavily discounted (around 50%). We recommend reviewing the pricing and margin strategy for these specific items to ensure these discounts are actually driving profitable volume.
 
-* **Shipping Preferences**: Express shipping correlates with a higher average spend ($60.48). We recommend offering subsidized or free express shipping thresholds (e.g., "Free Express Shipping over $75") to organically increase the average order value.Specific observation that is related to a recommended action.
+* **Shipping Preferences**: Express shipping correlates with a higher average spend ($60.48). We recommend offering subsidized or free express shipping thresholds (e.g., "Free Express Shipping over $75") to organically increase the average order value.
 
 
 # Assumptions and Caveats:
