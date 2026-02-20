@@ -1,5 +1,5 @@
 # Project Background
-As a leading retail company in the B2C apparel space, **Meridian Retail Group** relies on high transaction volumes across diverse product categories, including Clothing, Accessories, Footwear, and Outerwear. The management team has noticed recent changes in purchasing patterns across demographics and sales channels, prompting a need to better understand customer shopping behavior.
+As a leading retail company in the B2C apparel space, **Moda & Muse** relies on high transaction volumes across diverse product categories, including Clothing, Accessories, Footwear, and Outerwear. The management team has noticed recent changes in purchasing patterns across demographics and sales channels, prompting a need to better understand customer shopping behavior.
 
 Acting as a data analyst, my objective is to leverage this complete consumer dataset to uncover the key factors driving consumer decisions, repeat purchases, and long-term loyalty. By cleaning the data in Python, querying transactions in PostgreSQL, and building interactive visualizations in Tableau, this project provides stakeholders with actionable strategies to optimize marketing campaigns, inventory planning, and subscription positioning.
 
