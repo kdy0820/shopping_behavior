@@ -79,7 +79,7 @@ See image below for the Tableau dashboard:
 * **Main insight 4:** Despite the financial viability of the subscription model, only 27% of the customer base is enrolled, representing a massive untapped expansion opportunity.
 
 
-# Recommendations:
+# Recommendations
 Based on the insights and findings above, we recommend the marketing and product management teams consider the following:
 
 * **Targeted Subscription Marketing:** The data proves subscriptions successfully drive repeat purchases for Middle-aged and Senior demographics. We recommend targeting these segments heavily with subscription sign-up offers, while auditing the program to understand why it suppresses purchase frequency among younger adults.
@@ -93,11 +93,11 @@ Based on the insights and findings above, we recommend the marketing and product
 * **Shipping Preferences:** Express shipping correlates with a higher average spend ($60.48). We recommend offering subsidized or free express shipping thresholds (e.g., "Free Express Shipping over $75") to organically increase the average order value.
 
 
-# Assumptions and Caveats:
+# Assumptions and Caveats
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
 * **Assumption 1:** There were 37 missing records in the Review Rating column. These were imputed using the median rating of their respective product categories to prevent the loss of demographic data in those rows.
 * **Assumption 2:** The promo_code_used and discount_applied columns contained identical boolean logic for every row. The promo_code_used column was dropped from the dataset to eliminate redundancy.
 * **Assumption 3:** Customer segmentation was defined categorically: "New" = 1 previous purchase, "Returning" = 2-10 previous purchases, and "Loyal" = more than 10 previous purchases.
-* **Assumption 4:** To measure spend velocity, avg_annual_purchases and revenue_per_day were calculated by standardizing categorical text strings like "Fortnightly" and "Quarterly" into specific day-count integers (e.g., 14 and 90, respectively).
+* **Assumption 4:** To measure sales metrics, avg_annual_purchases and revenue_per_day were calculated by standardizing categorical text strings like "Fortnightly" and "Quarterly" into specific day-count integers (e.g., 14 and 90, respectively).
